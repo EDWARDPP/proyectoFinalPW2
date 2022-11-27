@@ -1,0 +1,403 @@
+div#hojaprincipal{
+  margin: auto;
+  background-color: #CDCFDF;
+  width: 1400px;
+  height: 1800px;
+  padding-top: 50px;
+
+}
+
+
+div#encabezado{
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  background-color: #001BB2;
+  width: 1130px;
+  height: 130px;
+  margin: auto;
+  padding: 35px;
+  border-radius: 25%
+
+}
+
+div#imgFes{
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  width: 170px;
+  height: 170px;
+  border-radius: 40%;
+}
+
+.imgfes{
+  border-radius: 40%
+}
+
+div#pw2{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: #DFE0E8;
+  width: 800px;
+  height: 160px;
+  margin-right: 100px;
+  border-radius: 10%
+}
+
+.nombre{
+  font-size: 44px;
+  font-family:sans-serif;
+}
+
+div#letrero{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+  background-color: white;
+  width: 100%;
+  height: 160px;
+}
+
+.h2{
+  font-size: 50px;
+  font-family: cursive;
+}
+
+div#opcionesejercicios{
+  background-color: #001BB2;
+  height: 1150px;
+  width: 1300px;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 10%;
+  align-items: center;
+  justify-content:  space-around;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div#tarea1{
+  width: 500px;
+  height: 500px;
+  background-color: #001BB2;
+  margin: 30px;
+  justify-content:  center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div#titulo1{
+  width: 400px;
+  height: 100px;
+  font-size: 20px;
+  background-color: #DFE0E8;
+  margin: 20px;
+  font-family: sans-serif;
+  justify-content: center;
+  display: flex;
+  border-radius: 20%;
+}
+
+div#descripcion1{
+  width: 450px;
+  height: 250px;
+  background-color: #D5D5D5;
+  margin: auto;
+  margin-bottom: 100px;
+  font-family: sans-serif;
+  justify-content: center;
+  display: flex;
+  border-radius: 5%;
+}
+
+.parrafo1{
+  font-size: 25px;
+  text-align: justify;
+  padding: 10px;
+}
+div#boton1{
+  justify-content: center;
+  display: flex;
+  width: 100px;
+  height: 50px;
+  background-color: white;
+  margin-top: -70px;
+  border-radius: 20%;
+}
+
+.button1{
+  height: 100%;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 10%;
+  border: 4px solid red;
+}
+.button1-1{
+  height: 100%;
+  width: 100%;
+}
+
+.button1:hover{
+  font-size: 25px;
+  border: 4px solid #00FFDB;
+}
+
+div#tarea5{
+  width: 500px;
+  height: 500px;
+  background-color: #001BB2;
+  margin: 30px;
+  justify-content:  center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div#titulo5{
+  width: 400px;
+  height: 100px;
+  font-size: 20px;
+  background-color: #DFE0E8;
+  margin: 20px;
+  font-family: sans-serif;
+  justify-content: center;
+  display: flex;
+  border-radius: 20%;
+}
+
+div#descripcion5{
+  width: 450px;
+  height: 250px;
+  font-size: 10px;
+  background-color: #D5D5D5;
+  margin: auto;
+  margin-bottom: 100px;
+  font-family: sans-serif;
+  justify-content: center;
+  display: flex;
+  border-radius: 5%;
+}
+
+.parrafo5{
+  font-size: 35px;
+  text-align: justify;
+  padding: 10px;
+}
+
+div#boton5{
+  justify-content: center;
+  display: flex;
+  width: 100px;
+  height: 50px;
+  background-color: white;
+  margin-top: -70px;
+  border-radius: 20%;
+}
+
+.button5{
+  height: 100%;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 10%;
+  border: 4px solid red;
+}
+.button5-5{
+  height: 100%;
+  width: 100%;
+}
+
+.button5:hover{
+  font-size: 25px;
+  border: 4px solid #00FFDB;
+}
+
+div#tarea6{
+  width: 500px;
+  height: 500px;
+  background-color: #001BB2;
+  margin: 30px;
+  justify-content:  center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div#titulo6{
+  width: 400px;
+  height: 100px;
+  font-size: 20px;
+  background-color: #DFE0E8;
+  margin: 20px;
+  font-family: sans-serif;
+  justify-content: center;
+  display: flex;
+  border-radius: 20%;
+}
+
+div#descripcion6{
+  width: 450px;
+  height: 250px;
+  font-size: 10px;
+  background-color: #D5D5D5;
+  margin: auto;
+  margin-bottom: 100px;
+  font-family: sans-serif;
+  justify-content: center;
+  display: flex;
+  border-radius: 5%;
+}
+
+.parrafo6{
+  font-size: 25px;
+  text-align: justify;
+  padding: 10px;
+}
+
+div#boton6{
+  justify-content: center;
+  display: flex;
+  width: 100px;
+  height: 50px;
+  background-color: white;
+  margin-top: -70px;
+  border-radius: 20%;
+}
+
+.button6{
+  height: 100%;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 10%;
+  border: 4px solid red;
+}
+.button6-6{
+  height: 100%;
+  width: 100%;
+}
+
+.button6:hover{
+  font-size: 25px;
+  border: 4px solid #00FFDB;
+}
+
+div#tarea7{
+  width: 500px;
+  height: 500px;
+  background-color: #001BB2;
+  margin: 30px;
+  justify-content:  center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div#titulo7{
+  width: 400px;
+  height: 100px;
+  font-size: 20px;
+  background-color: #DFE0E8;
+  margin: 20px;
+  font-family: sans-serif;
+  justify-content: center;
+  display: flex;
+  border-radius: 20%;
+}
+
+div#descripcion7{
+  width: 450px;
+  height: 250px;
+  font-size: 10px;
+  background-color: #D5D5D5;
+  margin: auto;
+  margin-bottom: 100px;
+  font-family: sans-serif;
+  justify-content: center;
+  display: flex;
+  border-radius: 5%;
+}
+
+.parrafo7{
+  font-size: 24px;
+  text-align: justify;
+  padding: 10px;
+}
+
+div#boton7{
+  justify-content: center;
+  display: flex;
+  width: 100px;
+  height: 50px;
+  background-color: white;
+  margin-top: -70px;
+  border-radius: 20%;
+}
+
+.button7{
+  height: 100%;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 10%;
+  border: 4px solid red;
+}
+.button7-7{
+  height: 100%;
+  width: 100%;
+}
+
+.button7:hover{
+  font-size: 25px;
+  border: 4px solid #00FFDB;
+}
+
+div#pie{
+  justify-content: space-between;
+  background-color:#0002FF ;
+  width: 1385px;
+  height: 140px;
+  margin-bottom: 15px;
+  margin-top: 30px;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div.datos{
+width: 480px;
+height: 120px;
+background-color: #000333;
+display: block;
+padding: 20px;
+align-items: center;
+margin-top: -10px;
+}
+
+.tdatos{
+  font-size: 20px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.pdatos{
+  font-size: 19px;
+  font-family: sans-serif;
+  color: white;
+}
+
+div.redes{
+  width: 600px;
+  height: 90px;
+  background-color: blue;
+  padding: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.tredes{
+  color: white;
+  font-size: 15px;
+  font-family:
+}
+
+.cont{
+  border-radius: 50%
+}

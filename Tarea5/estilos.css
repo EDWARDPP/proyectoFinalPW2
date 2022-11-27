@@ -1,0 +1,52 @@
+div#hojaprincipal{
+  padding-top: 50px;
+  height: 800px;
+  width: auto;
+  background-color: #1419CA;
+}
+
+div#botones{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  height: 600px;
+  width: 98.5%;
+  background-color: #2A3EFF;
+  margin: 10px;
+}
+
+.boton{
+  width: auto;
+  height: 100px;
+  background-color: #D9D9D9;
+  font-size: 20px;
+  border-radius: 10%
+
+}
+
+.boton:hover{
+  width: auto;
+  height: 110px;
+  background-color: #48CBCF;
+  font-size: 22px;
+}
+div#paginaPrincipal{
+  height: 80px;
+  width: 120px;
+  background-color: pink;
+  margin: auto;
+  font-size: 20px;
+  font-family: monospace;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 10%;
+}
+
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
